@@ -26,7 +26,7 @@ Le logo inclus dans ce repo représente la fusion sans "gap" entre le 'C' et le 
 
 ## ⚖️ Licence et Propriété
 Ce projet est le fruit d'une recherche indépendante. 
-* **Propriété Intellectuelle :** Pascal [Ton Nom], titulaire exclusif.
+* **Propriété Intellectuelle :** Pascal Racicot, titulaire exclusif.
 * **Usage :** Ce contenu est publié pour établir une preuve d'antériorité et de priorité. Toute utilisation commerciale sans consentement explicite de l'Architecte est interdite.
 * **Philosophie :** "Le code appartient à la machine, la vision appartient à l'Homme."
 
